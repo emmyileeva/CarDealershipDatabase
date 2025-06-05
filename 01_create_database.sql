@@ -1,0 +1,5 @@
+DROP DATABASE IF EXISTS CarDealership;
+GO
+
+CREATE DATABASE CarDealership;
+GO
