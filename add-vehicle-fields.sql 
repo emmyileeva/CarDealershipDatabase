@@ -1,0 +1,5 @@
+ALTER TABLE vehicles
+ADD vehicleType VARCHAR(30);
+
+ALTER TABLE vehicles
+ADD odometer INT;
