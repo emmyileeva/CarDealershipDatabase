@@ -1,6 +1,6 @@
 # 🚗 Car Dealership Database Workshop
 
-This project was created as part of Workbook 7 and focuses on designing, building, and querying a car dealership database using Microsoft SQL Server.
+This project was created as part of Workbook 7 Workshop and focuses on designing, building, and querying a car dealership database using Microsoft SQL Server.
 
 ---
 
